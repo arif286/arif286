@@ -6,8 +6,7 @@ I have the chance to immerse myself in many different works and projects.There a
 
 
 ## 📫 How to reach me: 
-[![Twitter Badge](https://img.shields.io/badge/-@KunalRaghav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Kunal_Raghav_)](https://twitter.com/_Kunal_Raghav_) [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/kunalraghav/) [![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@KunalRaghav/)
-[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:kraghav123@gmail.com)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhilgkrishnan) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
 
 ### My most recent projects
 - [Power gym center web application](https://power-x-gym-3.web.app)
