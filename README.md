@@ -19,7 +19,7 @@ I have the chance to immerse myself in many different works and projects.There a
 ### What I'm focusing on?
 
 Currently improving my self as a full-stack developer. I concentrate to enhance  Next Js,React Native, Node Js, MySQL, GraphQL, NoSQL, data structure and algorithm.
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="350" />
 
 ### Languages and Tools:
 
