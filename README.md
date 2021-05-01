@@ -18,10 +18,9 @@ I have the chance to immerse myself in many different works and projects.There a
 Currently improving my self as a full-stack developer. I concentrate to enhance  Next Js,React Native, Node Js, MySQL, GraphQL, NoSQL, data structure and algorithm.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-**Languages and Tools:**
+### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://material-ui.com/static/logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="20" src="https://i.ibb.co/MRct854/download-1.png"></code>
 <code><img height="20" src="https://i.ibb.co/7pNc9Fq/css.png"></code>
