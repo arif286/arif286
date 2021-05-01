@@ -41,7 +41,7 @@ Currently improving my self as a full-stack developer. I concentrate to enhance 
 
 [![Nurul Alam github stats](https://github-readme-stats.vercel.app/api?username=arif286)](https://github.com/anuraghazra/github-readme-stats)  
 
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="350" />
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="350" />
 
-  ---
+---
 
