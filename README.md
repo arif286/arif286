@@ -6,14 +6,15 @@ Sine 2020 my journey begin as a front-end web developer. I have designed, develo
 I have the chance to immerse myself in many different works and projects.There are some demo projects below:
 
 
-###My most recent projects
-1.
-2.
-3.
-4.
-5.
+### My most recent projects
+- this
+- this
+- dhjgkls
+- dlkdkjd
+- sjkdj
+- dkdkk
 
-###What I'm focusing on?
+### What I'm focusing on?
 
 Currently improving my self as a full-stack developer. I concentrate to enhance  Next Js,React Native, Node Js, MySQL, GraphQL, NoSQL, data structure and algorithm.
 <!--
