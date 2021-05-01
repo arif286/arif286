@@ -6,7 +6,7 @@ I have the chance to immerse myself in many different works and projects.There a
 
 
 ## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/programmer-nurul-alam/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/arif286) [![Instagram](https://i.ibb.co/2ghZ9MR/instagram.png) Instagram](https://www.instagram.com/arifulislam964/) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/Programmer.Arifulislam/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/programmer-nurul-alam/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/arif286) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/Programmer.Arifulislam/)
 
 ### My most recent projects
 - [Power gym center web application](https://power-x-gym-3.web.app)
