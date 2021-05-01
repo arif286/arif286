@@ -6,12 +6,12 @@ I have the chance to immerse myself in many different works and projects.There a
 
 
 ### My most recent projects
-- this
-- this
-- dhjgkls
-- dlkdkjd
-- sjkdj
-- dkdkk
+- [Power gym center web application](https://power-x-gym-3.web.app)
+- [Interior home design website](https://interior-design-service.web.app/)
+- [Fabrilife e-commerce shoping website](https://fabri-life.web.app)
+- [Online Food shop website](red-onion-food-shop.web.app)
+- [Rest api integration](worldclass-supper-league.netlify.app)
+- [Dental Doctor website](https://dental-doctor-portals.web.app)
 
 ### What I'm focusing on?
 
