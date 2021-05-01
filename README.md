@@ -19,7 +19,6 @@ I have the chance to immerse myself in many different works and projects.There a
 ### What I'm focusing on?
 
 Currently improving my self as a full-stack developer. I concentrate to enhance  Next Js,React Native, Node Js, MySQL, GraphQL, NoSQL, data structure and algorithm.
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="350" />
 
 ### Languages and Tools:
 
@@ -41,6 +40,8 @@ Currently improving my self as a full-stack developer. I concentrate to enhance 
 <code><img height="20" src="https://camo.githubusercontent.com/ee1f8efa669af5258733fc36705130a56fd7d8afc36f4aee553dd96aca4bac0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e65746c6966792d2532333030433742373f7374796c653d666c61742d737175617265266c6f676f3d6e65746c696679266c6f676f436f6c6f723d666666666666"></code>
 
 [![Nurul Alam github stats](https://github-readme-stats.vercel.app/api?username=arif286)](https://github.com/anuraghazra/github-readme-stats)  
-  
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="350" />
+
   ---
 
