@@ -5,6 +5,9 @@ Sine 2020 my journey begin as a front-end web developer. I have designed, develo
 I have the chance to immerse myself in many different works and projects.There are some demo projects below:
 
 
+## 📫 How to reach me: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhilgkrishnan) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
+
 ### My most recent projects
 - [Power gym center web application](https://power-x-gym-3.web.app)
 - [Interior home design website](https://interior-design-service.web.app/)
