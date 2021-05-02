@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm [Nurul Alam](https://pogrammer-arif.web.app/) 
 
-An Enthusiast JavaScript, React js and Node js developer.I work as a front-end developer around 1 year.
-Sine 2020 my journey begin as a front-end web developer. I have designed, developed, and launched customized, highly responsive website and e-commerce solutions using advanced technologies. I am familiar with modern web application ecosystem.
+An Enthusiast JavaScript, React js and Node js developer.I work as a front-end developer for around 1 year.
+Sine 2020 my journey began as a front-end web developer. I have designed, developed, and launched customized, highly responsive website and e-commerce solutions using advanced technologies. I am familiar with modern web application ecosystem.
 I have the chance to immerse myself in many different works and projects.There are some demo projects below:
 
 
