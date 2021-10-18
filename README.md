@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm [Nurul Alam](https://programmer-nurul-alam.web.app/) 
 
-An Enthusiast JavaScript, React js and Node js developer.I work as a front-end developer for around 1 year.
-Sine 2020 my journey began as a front-end web developer. I have designed, developed, and launched customized, highly responsive website and e-commerce solutions using advanced technologies. I am familiar with modern web application ecosystem.
+An Enthusiast JavaScript Developer.I work as a Full-stack JavaScript Developer for around 1 year.
+Sine 2020 my journey began as a front-end web developer. I have designed, developed, and launched customized, highly responsive website and e-commerce solutions. using advanced technologies. I am familiar with modern web application ecosystem.
 I have the chance to immerse myself in many different works and projects.There are some demo projects below:
 
 
@@ -19,7 +19,7 @@ I have the chance to immerse myself in many different works and projects.There a
 
 ### What I'm focusing on?
 
-Currently improving my self as a full-stack developer. I concentrate to enhance  Next Js,React Native, Node Js, MySQL, GraphQL, NoSQL, data structure and algorithm.
+Currently improving my self as a full-stack developer. I concentrate to enhance  Next Js,React Native, Docker, MySQL, GraphQL, NoSQL, data structure and algorithm.
 
 ### Languages and Tools:
 
