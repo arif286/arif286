@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm [Nurul Alam](https://programmer-nurul-alam.web.app/) 
 
-An Enthusiast JavaScript Developer.I work as a Full-stack JavaScript Developer for around 1 year.
+An Enthusiast JavaScript Developer working as a Full-stack JavaScript Developer in insdustry.
 Sine 2020 my journey began as a front-end web developer. I have designed, developed, and launched customized, highly responsive website and e-commerce solutions. using advanced technologies. I am familiar with modern web application ecosystem.
 I have the chance to immerse myself in many different works and projects.There are some demo projects below:
 
 
 ## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/programmer-nurul-alam/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/arif286) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/Programmer.Arifulislam/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nurulalam21) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/arif286) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/nurulalam61/)
 
 ### My most recent projects
 - [Power gym center web application](https://github.com/arif286/power-x-gym)
